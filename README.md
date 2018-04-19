@@ -7,18 +7,18 @@
 ***
 [![Pavilion G6](https://img.youtube.com/vi/bxOx7yXB8Og/0.jpg)]
 ***
-(https://www.youtube.com/watch?v=bxOx7yXB8Og "Pavilion G6")
+:link: (https://www.youtube.com/watch?v=bxOx7yXB8Og "Pavilion G6")
 
-[Ir a youtube](https://www.youtube.com)
+:link: [Ir a youtube](https://www.youtube.com)
 ***
 ## **Paso 1**
-Apagamos y desenchufamos el portátil. Luego, retiramos la batería. 
+Apagamos y desenchufamos el portátil. Luego, retiramos la batería. :electric_plug: :battery:
 Movemos el interruptor en la dirección indicada, sacamos la batería y la ponemos a un lado.
 
 [![Pavilion G6](http://portatilmovil.com/a/HP%20Pavilion%20G6/cargador%20pantalla%20bateria%20%281%29.jpg)]
 ***
 ## **Paso 2**
-Aflojamos los dos tornillos indicados.
+Aflojamos los dos tornillos indicados. :nut_and_bolt:
 Utilizamos una herramienta y con la herramienta soltamos los clips de plástico, comenzando en la parte superior. Por el lado izquierdo no hay clips, sólo pestañas.
 Levantamos y quitamos hacia arriba a la derecha, para liberar las lengüetas.
 
@@ -37,7 +37,7 @@ Movemos las dos pestañas hacia afuera para sacar la RAM.
 [![Pavilion G6](http://portatilmovil.com/a/HP%20Pavilion%20G6/cargador%20pantalla%20bateria%20%284%29.jpg)
 ***
 ## **Paso 5**
-Damos la vuelta al portátil y intentaremos sacar el teclado.
+Damos la vuelta al portátil y intentaremos sacar el teclado. :computer:
 En el teclado hay 9 clips de plástico que se empujan hacia arriba con cuidado para sacarlo usamos un destornillador o otra herramienta.
 
 [![Pavilion G6](http://portatilmovil.com/a/HP%20Pavilion%20G6/cargador%20pantalla%20bateria%20%285%29.jpg)
@@ -91,7 +91,7 @@ Levantamos el ensamblaje de la pantalla y lo dejamos a un lado.
 [![Pavilion G6](http://portatilmovil.com/a/HP%20Pavilion%20G6/cargador%20pantalla%20bateria%20%2818%29.jpg)
 ***
 ## **Paso 12**
-Desconectamos los conectores de los altavoces y lo levantamos.
+Desconectamos los conectores de los altavoces y lo levantamos. :sound:
 
 [![Pavilion G6](http://portatilmovil.com/a/HP%20Pavilion%20G6/cargador%20pantalla%20bateria%20%2819%29.jpg)
 ***
@@ -116,7 +116,7 @@ el conjunto de refrigeración.
 [![Pavilion G6](http://portatilmovil.com/a/HP%20Pavilion%20G6/cargador%20pantalla%20bateria%20%2824%29.jpg)
 [![Pavilion G6](http://portatilmovil.com/a/HP%20Pavilion%20G6/cargador%20pantalla%20bateria%20%2825%29.jpg)
 ***
-### _*Para volver a montar el portátil, hacemos todos los pasos en orden inverso.* 
+### _*Para volver a montar el portátil, hacemos todos los pasos en orden inverso.*  :arrows_counterclockwise:
 :blush: :computer:
 
 
